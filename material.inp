@@ -1,0 +1,28 @@
+#ISMAT ! iSale material input file identification string
+--------------------------------------------------------
+MATNAME    Material name                                      : Basalt     : Dunite
+EOSNAME    EOS name                                           : basalt_    : dunite_
+EOSTYPE    EOS type                                           : aneos      : aneos
+STRMOD     Strength model                                     : ROCK       : ROCK
+DAMMOD     Damage model                                       : COLLINS    : COLLINS
+ACFL       Acoustic fluidisation                              : NONE       : NONE
+PORMOD     Porosity model                                     : NONE       : NONE
+THSOFT     Thermal softening                                  : OHNAKA     : OHNAKA
+LDWEAK     Low density weakening                              : POLY       : POLY
+--------------------------------------------------------
+POIS       pois                                               : 3.D-01     : 2.5D-01
+TMELT0     tmelt0                                             : 1.393D+03  : 1.373D+03
+TFRAC      tfrac                                              : 1.2D+00    : 1.2D+00
+ASIMON     a_simon                                            : 6.D+09     : 1.52D+09
+CSIMON     c_simon                                            : 3.D+00     : 4.05D+00 
+YDAM0      ydam0 (ycoh)                                       : 1.D+04     : 1.D+04
+FRICDAM    fricdam                                            : 6.D-01     : 6.D-01
+YLIMDAM    ylimdam                                            : 3.5D+09    : 3.5D+09
+YINT0      yint0                                              : 1.D+07     : 1.D+07
+FRICINT    fricint                                            : 1.2D+00    : 1.2D+00
+YLIMINT    ylimint                                            : 3.5D+09    : 3.5D+09
+BDTPRES    bdt_pres                                           : -1.D+00    : -1.D+00
+BPTPRES    bpt_pres                                           : -1.D+00    : -1.D+00
+GAMETA     gam_eta                                            : 8.D-03     : 8.D-03
+GAMBETA    gam_beta                                           : 1.15D+02   : 0.5D+02
+<<END ! used to identify the end of this file

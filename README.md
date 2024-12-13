@@ -1,10 +1,10 @@
-# **ISLAE Impact Simulation Files**  
+# **iSALE Impact Simulation Files**  
 **Asteroid Impact Simulation Input Files Repository**
 
 ## **Overview**  
-This repository contains input files for ISLAE (Impact Simulation for Large Asteroid Events) simulations, focusing on asteroid impacts. The files include:  
-1. **`asteroid.inp`**: Input parameters defining asteroid characteristics (size, velocity, angle, etc.).  
-2. **`material.inp`**: Input material properties for the target rock or impacted terrain.  
+This repository contains input files for iSALE simulations, focusing on asteroid impacts. The files include:  
+1. **`asteroid.inp`**: Input parameters defining asteroid characteristics (size, velocity, etc.).  
+2. **`material.inp`**: Input material properties for the target rock and impactor.  
 
 These files are prepared for use in high-precision impact modeling and can be utilized by researchers and engineers working on impact cratering, material deformation, and shock wave propagation studies.
 

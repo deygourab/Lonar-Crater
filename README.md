@@ -13,8 +13,8 @@ These files are prepared for use in high-precision impact modeling and can be ut
 ## **Repository Contents**  
 | **File**             | **Description**                                                                                  |  
 |-----------------------|------------------------------------------------------------------------------------------------|  
-| `asteroid.inp`       | Input file defining asteroid parameters (e.g., mass, velocity, angle of impact, composition).   |  
-| `material.inp`       | Input file specifying target rock material properties, including density, strength, and porosity. |  
+| `asteroid.inp`       | Input file defining asteroid parameters (e.g., mass, velocity).   |  
+| `material.inp`       | Input file specifying target rock material properties, including density, strength. |  
 | `README.md`          | Documentation explaining repository structure and usage.                                       |
 
 ---
